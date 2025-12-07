@@ -17,10 +17,11 @@
 </div>
 
 <!-- ================= PRESENTACIÓN ================= -->
-- 🔭 Trabajo con **AWS, React, React Native, Node.js y MongoDB**
-- 🌱 Aprendiendo a crear **stacks completos para aplicaciones escalables**
-- ☁️ Apasionado por la **computación en la nube (AWS)**
-- 💬 Pregúntame sobre **AWS, React, React Native, Node.js y MongoDB**
+- 🔭 Trabajo con **PHP, Laravel, JavaScript y MySQL**
+- 🌱 Estoy aprendiendo a mejorar mis habilidades en **desarrollo web full stack**
+- 💻 Uso **Visual Studio Code / Visual Studio** como entorno principal de desarrollo
+- 🐍 También programo en **Python**
+- 💬 Pregúntame sobre **PHP, Laravel, JavaScript, MySQL y Python**
 - 📧 Correo: **tu-correo-aqui@example.com**
 - 🏠 Discord: **tu-usuario-discord**
 
@@ -33,19 +34,19 @@
 <td width="50%" align="center">
 
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=jose123a&theme=dark&show_icons=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=jose1235a&theme=dark&show_icons=true&count_private=true" />
 
 <br>
 
 <!-- Racha -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jose123a&theme=dark"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jose1235a&theme=dark"/>
 
 </td>
 
 <td width="50%" align="center">
 
 <!-- Lenguajes principales -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose123a&theme=dark&layout=compact&langs_count=10" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose1235a&theme=dark&layout=compact&langs_count=10" />
 
 </td>
 
@@ -56,7 +57,7 @@
 
 <!-- ================= TROFEOS ================= -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jose123a&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" width="84%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=jose1235a&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" width="84%"/>
 </div>
 
 ---
@@ -67,7 +68,7 @@
 </div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+  <img src="https://skillicons.dev/icons?i=vscode,py,js,php,laravel,mysql,git,github&perline=8" />
 </p>
 
 ---
@@ -106,9 +107,10 @@
 <!-- ================= VISITAS ================= -->
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=jose123a&icon=3&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=jose1235a&icon=3&color=6)](https://visitcount.itsvg.in)
 
 </div>
 
 <!-- ================= DIVIDER ================= -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
