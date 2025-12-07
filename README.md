@@ -19,11 +19,11 @@
 <!-- ================= PRESENTACIÓN ================= -->
 - 🔭 Trabajo con **PHP, Laravel, JavaScript y MySQL**
 - 🌱 Estoy aprendiendo a mejorar mis habilidades en **desarrollo web full stack**
-- 💻 Uso **Visual Studio Code / Visual Studio** como entorno principal de desarrollo
+- 💻 Uso **Visual Studio Code** como entorno principal de desarrollo
 - 🐍 También programo en **Python**
 - 💬 Pregúntame sobre **PHP, Laravel, JavaScript, MySQL y Python**
 - 📧 Correo: **tu-correo-aqui@example.com**
-- 🏠 Discord: **tu-usuario-discord**
+- 🏠 Discord: **jose789321**
 
 ---
 
@@ -81,23 +81,24 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/TU-LINKEDIN/" target="_blank">
-<img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" width="50"/>
+  <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" width="50"/>
 </a>
 
 <a href="https://twitter.com/TU-TWITTER" target="_blank">
-<img src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" width="50"/>
+  <img src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" width="50"/>
 </a>
 
 <a href="https://instagram.com/TU-INSTAGRAM" target="_blank">
-<img src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" width="50"/>
+  <img src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" width="50"/>
 </a>
 
 <a href="https://TU-WEB.com" target="_blank">
-<img src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" width="50"/>
+  <img src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" width="50"/>
 </a>
 
-<a href="https://discordapp.com/users/TU-DISCORD-ID" target="_blank">
-<img src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" width="50"/>
+<!-- Discord (sin link, mostrando usuario en tooltip) -->
+<a href="#" title="Discord: jose789321">
+  <img src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" width="50"/>
 </a>
 
 </p>
