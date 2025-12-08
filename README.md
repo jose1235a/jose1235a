@@ -56,7 +56,7 @@
 
   <!-- Lenguajes principales -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose1235a&theme=dark&layout=compact&langs_count=6" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose1235a&layout=compact&theme=dark&langs_count=6&cache_seconds=86400" 
     alt="Lenguajes más usados"
   />
 
