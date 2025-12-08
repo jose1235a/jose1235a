@@ -25,7 +25,7 @@
 - 💻 Uso **Visual Studio Code** como entorno principal de desarrollo
 - 🐍 También programo en **Python**
 - 💬 Pregúntame sobre **PHP, Laravel, JavaScript, MySQL y Python**
-- 📧 Correo: **tu-correo-aqui@example.com**
+- 📧 Correo: **jose.ureta.davila@gmail.com**
 - 🏠 Discord: **jose789321**
 
 ---
