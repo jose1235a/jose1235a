@@ -9,9 +9,9 @@
 <!-- ================= SNAKE ================= -->
 <div align="center">
   <img 
-    src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/grid-snake.svg" 
+    src="https://raw.githubusercontent.com/jose1235a/jose1235a/output/github-contribution-grid-snake.svg" 
     alt="snake de contribuciones"
-/>
+  />
 </div>
 
 <!-- ================= FRASE ================= -->
@@ -40,7 +40,7 @@
   <img 
     src="https://github-readme-stats.vercel.app/api?username=jose1235a&theme=dark&show_icons=true&count_private=true" 
     alt="Estadísticas de GitHub"
-/>
+  />
 
   <br><br>
 
@@ -48,7 +48,7 @@
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=jose1235a&theme=dark" 
     alt="Racha de contribuciones"
-/>
+  />
 
 </td>
 
@@ -58,7 +58,7 @@
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose1235a&theme=dark&layout=compact&langs_count=6" 
     alt="Lenguajes más usados"
-/>
+  />
 
 </td>
 
@@ -73,7 +73,7 @@
     src="https://github-profile-trophy.vercel.app/?username=jose1235a&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" 
     width="84%"
     alt="Trofeos de GitHub"
-/>
+  />
 </div>
 
 ---
@@ -87,7 +87,7 @@
   <img 
     src="https://skillicons.dev/icons?i=vscode,py,js,php,laravel,mysql,git,github&perline=8" 
     alt="Tecnologías"
-/>
+  />
 </p>
 
 ---
