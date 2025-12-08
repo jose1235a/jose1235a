@@ -9,9 +9,9 @@
 <!-- ================= SNAKE ================= -->
 <div align="center">
   <img 
-    src="https://raw.githubusercontent.com/jose1235a/jose1235a/output/github-contribution-grid-snake.svg" 
+    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?user=jose1235a" 
     alt="snake de contribuciones"
-  />
+/>
 </div>
 
 <!-- ================= FRASE ================= -->
